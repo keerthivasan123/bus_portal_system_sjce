@@ -100,7 +100,7 @@ ENV/
 
 # mypygi
 .mypy_cache/
-
+./v_venv
 .DS_Store
 *.sqlite3
 media/
