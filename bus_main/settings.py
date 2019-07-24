@@ -31,6 +31,7 @@ ALLOWED_HOSTS = []
 # Application definition
 
 INSTALLED_APPS = [
+    'bus_information.apps.BusInformationConfig',
     'bus_retrival.apps.BusRetrivalConfig',
     'django.contrib.admin',
     'django.contrib.auth',
